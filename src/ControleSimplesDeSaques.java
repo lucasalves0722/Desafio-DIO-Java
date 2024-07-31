@@ -33,7 +33,7 @@ public class ControleSimplesDeSaques {
             System.out.println("Saque realizado. Limite restante: " + limiteDiario);
         }
 
-        // Fechar o Scanner para evitar vazamento de recursos
+        // Fechar o Scanner para evitar vazamento de recursos:
         scanner.close(); 
     }
 }
