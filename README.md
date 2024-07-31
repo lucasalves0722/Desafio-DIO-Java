@@ -49,7 +49,7 @@ Você está desenvolvendo um programa simples em Java para verificar se uma cont
 
 O limite do cheque especial será definido como 500 unidades monetárias.
 
-## Funcionalidades
+## Funcionalidade
 
 O programa segue as seguintes regras:
 
