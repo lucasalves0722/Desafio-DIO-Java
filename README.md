@@ -2,7 +2,7 @@
 
 Este é um programa simples em Java que simula operações bancárias básicas. Ele permite ao usuário realizar depósitos, saques e consultar o saldo em uma conta bancária virtual.
 
-### Funcionalidades
+## Funcionalidades
 
 O programa exibe um menu com as seguintes opções:
 
@@ -18,7 +18,7 @@ O programa exibe um menu com as seguintes opções:
 
 Você está desenvolvendo um programa simples em Java para verificar se um número de conta bancária é válido. A regra é que o número da conta deve ter exatamente 8 dígitos.
 
-### Funcionalidades
+## Funcionalidades
 
 O programa segue as seguintes regras:
 
@@ -33,7 +33,7 @@ O programa segue as seguintes regras:
 
 Você está desenvolvendo um programa simples em Java para verificar se um cliente é elegível para criar uma conta bancária. A condição é que o cliente deve ter pelo menos 18 anos de idade.
 
-### Funcionalidades
+## Funcionalidades
 
 O programa segue as seguintes regras:
 
@@ -49,7 +49,7 @@ Você está desenvolvendo um programa simples em Java para verificar se uma cont
 
 O limite do cheque especial será definido como 500 unidades monetárias.
 
-## Funcionalidade
+## Funcionalidades
 
 O programa segue as seguintes regras:
 
